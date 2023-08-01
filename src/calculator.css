@@ -1,0 +1,21 @@
+#calculator{
+  width: 400px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid red;
+}
+.clac-row{
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.clac-row button{
+    width: 100%;
+    padding: 10px 20px;
+    background-color: lightslategrey;
+    border: none;
+}
